@@ -10,8 +10,7 @@ This repository includes NLP notes from two courses:
 ### some differences:
 * The latter course is solely focussed on Deep Learning methods, while the former also discusses traditional NLP methods.
 * The latter course also includes more readings than the former one. The former one has hardly any.
-* The former course has hardly any publicly available, moreover it has updated after took the course @columbia. I don't have 
-access to new lectures, so I won't annotate them.
+* The former course has only some any publicly available lectures, moreover it has been updated after I took the course @columbia. I don't have access to new lectures, so I won't annotate them.
 
 ### similarity 
 Both classes include both slides and notes. If I find considerable overlap, I will annotate only either slides or notes.
