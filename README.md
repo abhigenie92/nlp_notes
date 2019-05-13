@@ -20,6 +20,7 @@ Both classes include both slides and notes. If I find considerable overlap, I wi
 * CS224n: Just 1 lecture annotated right now, I think it is going to take atleast 1.5-2 months to complete.
 
 ## naming
-* <2DigitLectureNo.>_(<2DigitSub.LectureNo.>_)<s/r/n>_<LectureTitle>
+* `<2DigitLectureNo>_(<2DigitSubLectureNo>)_<s/r/n>_<LectureTitle>`
   * s/r/n - slides/readings/lecture-notes
+  * 2DigitSubLectureNo is optional.
 * For ex: 01_s_wordvecs , 01_02_r_wordvecs.
